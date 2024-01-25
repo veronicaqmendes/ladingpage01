@@ -2,3 +2,34 @@
     margin: 0;
     padding: 0;
 }
+
+.pai{
+    justify-content: center;
+    align-items: center;
+}
+
+.filho{
+    position: absolute;
+    top: 20px;
+    left: 35vw;
+}
+.logotipo img{
+    align-items: center;
+    width: 10vw;
+    height: 10vh;
+}
+
+
+#titulo h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 30px;
+
+}
+
+.icone1 img {
+    align-items: center;
+}
+
+
