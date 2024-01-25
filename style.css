@@ -4,8 +4,11 @@
 }
 
 .pai{
-    justify-content: center;
-    align-items: center;
+    
+    margin-top: 20px;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    
 }
 
 .filho{
@@ -14,9 +17,11 @@
     left: 35vw;
 }
 .logotipo img{
-    align-items: center;
+    margin-left: 360px;
+    margin-right: 200px;
     width: 10vw;
     height: 10vh;
+    
 }
 
 
@@ -25,11 +30,26 @@
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     margin-left: 30px;
+    text-align: center;
 
 }
+
+#titulo p{
+    font-size: 20px;
+    font-family: Helvetica;
+    color: white;
+    margin-left: 30px;
+    text-align: center;
+
+}
+
+
 
 .icone1 img {
     align-items: center;
 }
 
-
+.input{
+    width: 20vw;
+    height:10vh;
+    }
